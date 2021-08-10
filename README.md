@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Olá! Me chamo Hericson Araújo
 
-- 🔭 Atualmente sou doutorando na UFC - Campus Pici
-- 🌱 Estudando python, NLP, pandas, ...
+- 🔭 Atualmente sou doutorando em Inteligência Artificial na UFC - Campus Pici
+- 🌱 Estudando python, NLP, pandas, NumPy, ...
 - 😄 Pronomes: ele/dele
 
 <div>
